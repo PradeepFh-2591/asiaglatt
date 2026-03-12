@@ -1,0 +1,22 @@
+HTTrack3.49-2 launched on Mon, 09 Mar 2026 17:28:06 at https://asiaglatt.com +*asiaglatt.com/*
+(httrack https://asiaglatt.com -O ./mirror/asiaglatt.com +*asiaglatt.com/* -r5 -%e5 -d -c2 -%c1 -T30 -R5 -s0 -q -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:33:04	Error: 	"Bad Request" (400) at link https://asiaglatt.com/wp-admin/admin-ajax.php (from https://asiaglatt.com/)
+17:33:43	Warning: 	Moved Permanently for https://asiaglatt.com/?p=68
+17:33:43	Warning: 	File has moved from https://asiaglatt.com/?p=68 to https://asiaglatt.com/about-us/
+17:33:43	Warning: 	Moved Permanently for https://asiaglatt.com/?p=927
+17:33:43	Warning: 	File has moved from https://asiaglatt.com/?p=927 to https://asiaglatt.com/kashrut-certificate/
+17:33:43	Warning: 	Moved Permanently for https://asiaglatt.com/?p=38
+17:33:43	Warning: 	File has moved from https://asiaglatt.com/?p=38 to https://asiaglatt.com/menu/
+17:33:43	Warning: 	Moved Permanently for https://asiaglatt.com/?p=40
+17:33:43	Warning: 	File has moved from https://asiaglatt.com/?p=40 to https://asiaglatt.com/party/
+17:33:43	Warning: 	Moved Permanently for https://asiaglatt.com/?p=42
+17:33:43	Warning: 	File has moved from https://asiaglatt.com/?p=42 to https://asiaglatt.com/contact/
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 37 seconds : 138 links scanned, 132 files written (61908022 bytes overall) [59926427 bytes received at 177823 bytes/sec], 2782217 bytes transferred using HTTP compression in 77 files, ratio 26%, 4.1 requests per connection
+(1 errors, 10 warnings, 0 messages)
